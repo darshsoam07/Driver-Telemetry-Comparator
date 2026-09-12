@@ -1,5 +1,8 @@
-cache/
-.venv/
-__pycache__/
-*.pyc
-.streamlit/secrets.toml
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example

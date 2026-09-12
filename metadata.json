@@ -1,0 +1,6 @@
+{
+  "name": "TrackPulse - F1 Telemetry & Analytics",
+  "description": "Real-time telemetry, advanced analytics, and AI-powered insights for drivers, teams, and engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
